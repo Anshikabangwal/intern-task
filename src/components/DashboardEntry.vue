@@ -18,10 +18,6 @@
       const router = useRouter();
   
       const logout = () => {
-        // Clear any authentication tokens or user data
-        // For example, you might remove a token from localStorage:
-        // localStorage.removeItem('authToken');
-        
         // Redirect to login page
         router.push('/login');
       };
@@ -33,7 +29,5 @@
   };
   </script>
   
-  <style scoped>
-  /* Add Tailwind CSS classes or custom styles as needed */
-  </style>
+
   

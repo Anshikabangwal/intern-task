@@ -72,7 +72,5 @@
   };
   </script>
   
-  <style scoped>
-  /* Add Tailwind CSS classes or custom styles as needed */
-  </style>
+
   
